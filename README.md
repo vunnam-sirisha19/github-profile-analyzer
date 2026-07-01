@@ -2,18 +2,16 @@
 
 A full-stack web application that analyzes any public GitHub profile — fetching real-time data via the GitHub API and visualizing language usage and top repositories in a clean, dark-themed dashboard.
 
-🔗 **Live Demo:** _[add your deployed link here]_
+
 📁 **GitHub:** https://github.com/vunnam-sirisha19/github-profile-analyzer
 
 ---
 
 ## Screenshots
-
+ 
 ### Search Page
-![Search](login.png)
-
-### Dashboard
-![Dashboard](dashboard.png)
+![Search](analyzer1.png)
+![Search](analyzer2.png)
 
 ---
 
